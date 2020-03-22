@@ -11,7 +11,7 @@ rule is_dll
 rule Gh0st : rat
 {
 	meta:
-		desciption = "unpack version of Gh0st rat (dll)"
+		description = "unpack version of Gh0st rat (dll)"
 		author = "lopqto https://lopqto.me"
 
 	strings:
