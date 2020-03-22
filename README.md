@@ -1,1 +1,1 @@
-# Yara-Rules
+# YaraRules
