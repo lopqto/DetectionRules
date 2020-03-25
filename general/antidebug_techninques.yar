@@ -6,10 +6,10 @@
 
 import "pe"
 
-rule Debugger_Detection_And_Anti_Debug_Techninques 
+rule Debugger_Detections_And_Anti_Debug_Techninques 
 {
     meta:
-		description = "unpack version of Gh0st rat (dll)"
+		description = "check debugger detections and anti-debug techniques."
 		author = "lopqto https://lopqto.me"
 
     strings:
