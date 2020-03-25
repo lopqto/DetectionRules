@@ -1,4 +1,4 @@
-# Yara-Rules
+# YaraRules
 
 Some of the Yara rules for my public researchs. Feel free to contact me if you have an interesting sample, topic or you have a question about the rules.
 
