@@ -1,6 +1,9 @@
-# YaraRules
+# DetectionRules
 
-Some of the Yara rules for my public researchs. Feel free to contact me if you have an interesting sample, topic or you have a question about the rules.
+Some of the detection rules for my public research. Feel free to contact me if you have an interesting sample, topic or you have a question about the rules.
+
+## Note
+In addition to the rules, there are some scripts (mostly in Python) that I developed in the analysis process. 
 
 ## Samples
 
