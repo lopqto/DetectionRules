@@ -4,8 +4,6 @@
     Based on "The Art of Unpacking" by Mark Vincent Yason (https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf)
 */
 
-import "pe"
-
 rule Debugger_Detections_And_Anti_Debug_Techninques 
 {
     meta:
